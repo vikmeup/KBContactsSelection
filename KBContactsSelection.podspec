@@ -23,6 +23,6 @@ Pod::Spec.new do |s|
   s.resources = "KBContactsSelection/*.xib"
   s.framework  = "MessageUI"
   s.requires_arc = true
-  s.dependency "APAddressBook", "~> 0.1"
+  s.dependency "APAddressBook", "0.1"
 
 end
